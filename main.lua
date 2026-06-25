@@ -452,7 +452,7 @@ function Library:MakeWindow(WindowConfig)
 	WindowConfig.CloseCallback = WindowConfig.CloseCallback or function() end
 	WindowConfig.ShowIcon = WindowConfig.ShowIcon or false
 	WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://108992388891490"
-	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://8834748103"
+	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://13160015062"
 	Library.Folder = WindowConfig.ConfigFolder
 	Library.SaveCfg = WindowConfig.SaveConfig
 
